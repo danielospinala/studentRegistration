@@ -12,3 +12,9 @@ Im learning git
 //// esto es un comentario
 
 this is before Canada
+
+Education
+
+-School
+-University
+-Post-Graduate
