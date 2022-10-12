@@ -17,3 +17,7 @@ body {
     margin: 5px;
     text-align: center;
 }
+.mainTitle{
+    background-color: blue;
+    color: #FFF;
+}
