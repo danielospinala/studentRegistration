@@ -1,0 +1,27 @@
+Hello this is about my life
+
+Im 38 year old
+
+My name is Daniel
+
+Im form Colombia
+
+Im learning git 
+
+
+//// esto es un comentario
+
+this is before Canada
+
+Education
+
+-School
+-University
+-Post-Graduate
+
+
+//New coment add title
+
+Expirience
+
+Faberpol
